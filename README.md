@@ -1,7 +1,7 @@
 # SlicTruder
 G-code generator for the Recreator 3D
 
-There is no user interface nor command line interface (contributor welcome!), so just tweak the parameters and run the script.
+There is no user interface nor command line interface (contributors welcome!), so just tweak the parameters and run the script.
 
 Developed in PyCharm IDE, by habit.
 
